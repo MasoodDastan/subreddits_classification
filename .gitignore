@@ -2,7 +2,6 @@
 credentials.py
 data/
 
-
 .ipynb_checkpoints
 .DS_Store
 __pycache__/
